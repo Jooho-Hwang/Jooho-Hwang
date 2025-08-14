@@ -8,7 +8,7 @@ I work across the **entire stack from hardware to application**.
 ## Tech Stack
 
 **Languages**  
-- Verilog / SystemVerilog  
+- Verilog HDL
 - C / C++  
 
 **Frameworks & Libraries**  
