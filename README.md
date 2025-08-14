@@ -26,6 +26,3 @@ I work across the **entire stack from hardware to application**.
 
 ## Contact
 - Email: hjh970823@gmail.com
-
-> My repositories provide complete documentation, architecture diagrams,  
-> and reproducible build/run/test instructions.
