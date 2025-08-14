@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jooho Hwang
 
-<!--
-**Jooho-Hwang/Jooho-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **FPGA · Embedded · Robotics · Computer Vision** engineer.  
+From designing digital logic with Verilog/SystemVerilog to building STM32/FreeRTOS embedded systems,  
+developing ROS/Qt applications, and implementing YOLO/ONNX-based vision systems —  
+I work across the **entire stack from hardware to application**.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+- Verilog / SystemVerilog  
+- C / C++  
+
+**Frameworks & Libraries**  
+- FreeRTOS  
+- ROS  
+- Qt  
+- OpenCV  
+- ONNX Runtime
+
+**Tools & Environments**  
+- Xilinx Vivado, Intel Quartus  
+- Icarus Verilog  
+- STM32CubeIDE  
+- MQTT, RTSP
+
+## Contact
+- Email: hjh970823@gmail.com
+
+> My repositories provide complete documentation, architecture diagrams,  
+> and reproducible build/run/test instructions.
