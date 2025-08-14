@@ -18,11 +18,13 @@ I work across the **entire stack from hardware to application**.
 - OpenCV  
 - ONNX Runtime
 
-**Tools & Environments**  
-- Xilinx Vivado, Intel Quartus  
-- Icarus Verilog  
-- STM32CubeIDE  
-- MQTT, RTSP
+**Tools**  
+- Xilinx Vivado
+- Intel Quartus
+- Icarus Verilog
+- Visual Studio
+- STM32CubeIDE
+- Qt Creator
 
 ## Contact
 - Email: hjh970823@gmail.com
