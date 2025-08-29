@@ -7,24 +7,27 @@ I work across the **entire stack from hardware to application**.
 
 ## Tech Stack
 
-**Languages**  
+**Language**  
+- C / C++
 - Verilog HDL
-- C / C++  
 
-**Frameworks & Libraries**  
+**Frameworks / Library**  
 - FreeRTOS  
-- ROS  
+- ROS Noetic
 - Qt  
 - OpenCV  
 - ONNX Runtime
 
-**Tools**  
+**Tool**  
 - Xilinx Vivado
 - Intel Quartus
 - Icarus Verilog
 - Visual Studio
 - STM32CubeIDE
 - Qt Creator
+
+**OS**
+- Ubuntu Desktop 24.04 LTS
 
 ## Contact
 - Email: hjh970823@gmail.com
