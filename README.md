@@ -14,10 +14,11 @@ My goal is to continue growing as a developer who contributes to a **safer and b
 - C / C++  
 - Verilog HDL  
 
-**Frameworks / Tools**  
+**Frameworks / Libraries**  
 - Qt  
-- Linux  
-- FPGA Development  
+
+**Operating System**  
+- Linux
 
 ## Contact
 - Email: hjh970823@gmail.com
