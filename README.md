@@ -2,11 +2,11 @@
 
 I’m an embedded systems engineer driven by a genuine passion for creating reliable and efficient solutions.
 
-Building on my experience in **digital circuit design using Verilog** and **system programming with C/C++** for both **MCUs and Linux-based platforms**, I have developed a strong foundation across hardware and software aspects of embedded systems.
+Building on my experience in digital circuit design using Verilog and system programming with C/C++ for both MCUs and Linux-based platforms, I have developed a strong foundation across hardware and software aspects of embedded systems.
 
-I place great importance on **system reliability in mission-critical environments**, aiming to design **stable, error-free systems** that perform consistently under demanding conditions.
+I place great importance on system reliability in mission-critical environments, aiming to design stable, error-free systems that perform consistently under demanding conditions.
 
-My goal is to continue growing as a developer who contributes to a **safer and better society through technology**.
+My goal is to continue growing as a developer who contributes to a safer and better society through technology.
 
 ## Tech Stack
 
@@ -14,7 +14,7 @@ My goal is to continue growing as a developer who contributes to a **safer and b
 - C / C++  
 - Verilog HDL  
 
-**Frameworks / Libraries**  
+**Framework / Library**  
 - Qt  
 
 **Operating System**  
